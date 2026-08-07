@@ -11,7 +11,7 @@ Business Analyst and Data Analyst with hands-on project experience in SQL, Power
 | [Employee Attrition Dashboard (Power BI)](https://github.com/michaelredding2000/employee-attrition-powerbi) | 4-view report with DAX measures and a calculated tenure model. Found attrition front-loaded at 34.9% in year one versus 10.8% at 5+ years | Power BI · DAX · Power Query |
 | [Patient No-Show Analysis](https://github.com/michaelredding2000/patient-noshow-sql-analysis) | Root-cause analysis of 110,527 medical appointments. Surfaced an SMS data quality issue and lead time as the primary no-show drivers | PostgreSQL · pgAdmin |
 | [Budget vs. Actuals Tracker](https://github.com/michaelredding2000/budget-vs-actuals-excel) | 4-tab Excel workbook with Power Query, Pivot Tables, and a conditional formatting dashboard for a 12-employee agency | Microsoft Excel |
-| [Employee Attrition Dashboard (Tableau)](https://github.com/michaelredding2000/employee-attrition-tableau) | 3-view Tableau Public dashboard identifying a 52% attrition rate in the high-risk Sales Rep cohort from the IBM HR dataset | Tableau Public |
+| [NCAA Athletic Subsidy Analysis](https://github.com/michaelredding2000/ncaa-athletic-subsidy-analysis) | Analysis of 240 public Division I schools showing the median school funds 63.8% of its athletic budget through student fees and institutional support | Python · pandas · Power BI |
 
 ---
 
